@@ -54,3 +54,20 @@ nav li a{
     margin-top: 10px;
     font-weight: 174px;
 }
+/* action part */
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+    border-width: 1140px;
+}
+.action-title{
+    font-size: 4em;
+    font-weight: bold;
+}
+.action-description{
+    font-size: 2em;
+}
+.action-img{
+    border-radius: 48px;
+}
