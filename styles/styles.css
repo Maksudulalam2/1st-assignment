@@ -71,3 +71,43 @@ nav li a{
 .action-img{
     border-radius: 48px;
 }
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    border: 127px solid white;
+    
+}
+.All-productive{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 142px;
+    color: #4E47FF;
+    font-size: 30px;
+}
+.productive-sec{
+    font-size: 38px;
+    font-weight: 856;
+    color: #252432;
+    border: 0 auto;
+    text-align: center;
+}
+.productive-description{
+    font-size: 200px;
+    color: #4E47FF;
+    font-weight: 856;
+    height: 121px;
+    gap: 158;
+    
+}
+.productive-subtitile{
+    height: auto;
+    font-size: 20px;
+    margin: 0 142px;
+    display: flex;
+    justify-content: space-between;
+}
+.bg-styles{
+    background-color: #bebcfc;
+    border-radius: 20px;
+}
