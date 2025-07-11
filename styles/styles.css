@@ -74,8 +74,8 @@ nav li a{
 /* main styles */
 main{
     max-width: 1140px;
-    margin: 0 auto;
     border: 127px solid white;
+    margin: 10px auto;
     
 }
 .All-productive{
@@ -110,4 +110,39 @@ main{
 .bg-styles{
     background-color: #bebcfc;
     border-radius: 20px;
+}
+
+
+
+
+.form-oparation{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    gap: 80px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 1px solid brown;
+
+}
+.form-title{
+    margin: 100px 150px;
+    font-size: 50px;
+}
+.form-list{
+    width: 50%;
+    margin: 71px 0;
+}
+footer input{
+    height: 40px;
+    border-radius: 5px;
+    display: block;
+    width: 400px;
+}
+textarea{
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+    border: 0 solid black;
+    display: block;
 }
